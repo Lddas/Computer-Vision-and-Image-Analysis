@@ -7,7 +7,7 @@ This repository contains various computer vision exercises, including deep learn
 
 ## Exercises Overview:
 
-### Ex2 - **Image Classification (Cats vs. Other Labels)**:
+### Ex2 - **Image Classification **:
 - **Task**: Implement an image segmentation algorithm for classifying images of cats and other objects.
 - **Techniques**: Includes k-means clustering, patch extraction, and advanced methods for interactive segmentation.
 
