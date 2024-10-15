@@ -3,7 +3,7 @@
 
 This repository contains various computer vision exercises, including deep learning techniques for image analysis, part of the **Image Analysis and Computer Vision** course.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/94077524-4ea3-41ff-943c-624dd59905f0"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/a9c0778a-a64e-4341-9f20-c3939097b4f9">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/94077524-4ea3-41ff-943c-624dd59905f0"> <img width="425" alt="image" src="https://github.com/user-attachments/assets/a9c0778a-a64e-4341-9f20-c3939097b4f9">
 
 ## Exercises Overview:
 
